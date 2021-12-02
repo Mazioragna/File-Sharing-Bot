@@ -59,6 +59,9 @@ pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
 ````
+#deploy to railway 
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FMazioragna%2FFile-Sharing-Bot&envs=ADMINS%2CAPI_HASH%2CAPP_ID%2CCHANNEL_ID%2CFORCE_SUB_CHANNEL%2COWNER_ID%2CSTART_MESSAGE%2CTG_BOT_TOKEN&ADMINSDefault=1942927414&API_HASHDefault=80b8111d2d6add477f4635f3c7524566&referralCode=COqdBp)
 
 ### Admin Commands
 
